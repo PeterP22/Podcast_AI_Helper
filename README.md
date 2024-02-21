@@ -16,3 +16,8 @@ AI Podcast Helper coded in Python is designed to transform the way you interact 
 Sign up for an AssemblyAI account and obtain your API key. You will need this to perform transcriptions. Find more information here: https://www.assemblyai.com/ 
 
 
+## Example Output 
+![Alt text](code_output.png)
+
+
+
