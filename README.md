@@ -6,7 +6,7 @@ AI Podcast Helper coded in Python is designed to transform the way you interact 
 
 - **MP3 File Processing:** Provide the path to your chosen podcast or lecture in MP3 format.
 - **AI-Powered Transcription:** Converts audio content into text for easy analysis and reference, using AssemblyAI.
-- **Automatic Timestamps and Summaries: Automatically generates timestamps, headlines, summaries, and gists for key sections within the podcast, enhancing navigation and accessibility.
+- **Automatic Timestamps and Summaries:** Automatically generates timestamps, headlines, summaries, and gists for key sections within the podcast, enhancing navigation and accessibility.
 - **Content Analysis:** Ask specific questions to delve deeper into the topics discussed.
 - **Summary Generation:** Get concise summaries of the key points discussed in the audio content.
 - **Action Item Extraction:** Identify and list actionable insights that you can apply to your daily life.
